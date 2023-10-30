@@ -1,1 +1,1 @@
-# word2vec-information-retrival-system
+# Information Retrival System using Word2Vec
